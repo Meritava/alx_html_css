@@ -377,7 +377,7 @@
   
   /* Card (all styles)
       ============================= */
-  .section-latest-news.row {
+  .section-latest-news .row {
     display: flex;
     flex-direction: row-reverse;
   }
